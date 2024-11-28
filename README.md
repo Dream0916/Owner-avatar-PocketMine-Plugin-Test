@@ -26,7 +26,7 @@ This is a custom PocketMine plugin that enhances a Minecraft server's functional
 
 1. Download the Plugin: Clone or download this repository.
 
-   git clone https://github.com/futuresea-dev/PocketMine-Plugin-Test.git
+   git clone https://github.com/Dream0916/PocketMine-Plugin-Test.git
 
 2. Copy to PocketMine Plugins Directory: Place the plugin folder located in the src directory into the plugins directory of your PocketMine server.
 
